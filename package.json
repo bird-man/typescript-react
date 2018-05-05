@@ -4,7 +4,8 @@
   "description": "Typescript React Tutorial",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "magic": "webpack"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/bird-man/typescript-react/issues"
   },
-  "homepage": "https://github.com/bird-man/typescript-react#readme"
+  "homepage": "https://github.com/bird-man/typescript-react#readme",
+  "dependencies": {
+    "ts-loader": "^4.2.0",
+    "webpack": "^4.7.0"
+  }
 }
