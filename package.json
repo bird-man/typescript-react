@@ -1,0 +1,19 @@
+{
+  "name": "typescript-react",
+  "version": "1.0.0",
+  "description": "Typescript React Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bird-man/typescript-react.git"
+  },
+  "author": "Chris Sparrow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bird-man/typescript-react/issues"
+  },
+  "homepage": "https://github.com/bird-man/typescript-react#readme"
+}
